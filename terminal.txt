@@ -1,0 +1,11 @@
+ ctrl + alt + t
+
+ -> echo type_anything
+ -> cal (will print the calander)
+ -> cal 2018 or cal -y
+ -> date
+
+ ctrl + l -> to clear the screen
+ -> history (then !number, !!)
+ -> history -c; history -w
+ -> exit

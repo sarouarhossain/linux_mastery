@@ -1,0 +1,14 @@
+* why Linux?
+--------------------
+-> you can overcome the fear of operating system. once you understand the Linux clearly, you will understand windows , Macintosh, ubuntu etc clearly.
+-> you can overcome the fear of command line. if you are a programmer, in some point you will need command line. you will get comfortable with command line.
+-> ease of deployment. you must need command line knowledge and linux knowledge to set up server and deploy your project on server.
+-> if you are using git, you must need some kind of solid knowledge of command line to use git properly.
+
+* what is Linux?
+---------------------
+basically a kernel. and what is kernel? it interects with hardware.
+
+* package manager
+----------------------
+how do you install software in in linux? ans is package manager
