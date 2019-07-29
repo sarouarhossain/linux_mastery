@@ -1,0 +1,12 @@
+why docker 
+==========
+
+1. production, staging, development environment will be identical. no more "works on my machine".
+
+2. "build once, run everywhere". Ensure that the exact same environment can be deployed wherever Docker is installed, no matter the hardware or operating system.
+
+3. Build a reproducible environment with a very small footprint (usually just your source code and a special file called Dockerfile) that you can share with others.
+
+4. Declare your project's dependencies as a handy YAML file that can be used to setup everything you need at once (e.g. your app server, database, queues, workers etc.).
+
+5. Create a scalable, reliable cluster that can run your entire project across a fleet of heterogeneous physical machines with a few lines of bash (Docker Swarm). *** 

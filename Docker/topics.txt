@@ -1,0 +1,10 @@
+what to learn
+==============
+
+1. why docker
+2. docker engine
+3. image
+4. container
+5. dockerfile commands
+6. docker compose 
+7. swarm
